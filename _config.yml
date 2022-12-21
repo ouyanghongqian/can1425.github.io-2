@@ -15,8 +15,8 @@ owner:
     bio: ''
 
 # Data
-avatar: /asserts/img/avatar.jpg
-favicon: /favicon.jpg
+avatar: /logo.png
+favicon: /logo.png
 music:
     title: なつめ千秋,GUMI - センチメンタルな愛慕心
     url: /asserts/lib/plyr/test.mp3
